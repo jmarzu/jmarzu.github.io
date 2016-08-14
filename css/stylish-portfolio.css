@@ -214,6 +214,8 @@ hr.small {
 
 .img-portfolio {
     margin: 0 auto;
+    width: 450px;
+    height: 375px;
 }
 
 .img-portfolio:hover {
