@@ -16,7 +16,6 @@ body {
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
     /* can be treated like a fallback */
-  
 }
 
 .text-vertical-center {
@@ -282,12 +281,6 @@ footer {
     margin-top: -250px;
 }
 
-
-
-/*.skills ul {
-    margin: 0 auto;
-    text-align: center;
-}*/
 
 #typewriter p {
     color: white;
