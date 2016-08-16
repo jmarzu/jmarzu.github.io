@@ -296,8 +296,17 @@ footer {
 .projectDescription {
     text-align: left;
     font-size: 25px;
+    margin-top: 15px;
 }
 
 .middle {
     float: left;
+}
+
+h2 {
+    margin: 20px;
+}
+
+#express {
+    width: 25%;
 }
